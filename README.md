@@ -77,7 +77,7 @@ This project helped me:
 ---
 
 ## 📽️ Demo Video
-🎥 [Watch the project walkthrough video on LinkedIn](https://www.linkedin.com/in/yada-rajeshwari-022b8530b)
+🎥 [Watch the project walkthrough video on LinkedIn]- www.linkedin.com/in/yada-rajeshwari-022b8530b
 
 ## Credits
 Internship: Prodigy InfoTech
