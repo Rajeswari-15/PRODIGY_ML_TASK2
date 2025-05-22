@@ -77,7 +77,7 @@ This project helped me:
 ---
 
 ## 📽️ Demo Video
-🎥 [Watch the project walkthrough video on LinkedIn]- www.linkedin.com/in/yada-rajeshwari-022b8530b
+🎥 [Watch the project walkthrough video on LinkedIn]- https://www.linkedin.com/posts/yada-rajeshwari-022b8530b_prodigyinfotech-internship-machinelearning-activity-7330671008980287488-F7rO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8EndoBu65vprjIb-hNbUtHSPP2hiW1WU8
 
 ## Credits
 Internship: Prodigy InfoTech
